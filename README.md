@@ -1,5 +1,6 @@
 # Unit-18-HW
 
+## Changes made in the code
 ## Step 1
 @dataclass  
 class Record:  
@@ -11,7 +12,7 @@ class Record:
     
 ## Step 2
 record: Record 
-(change data renamed as Record) 
+ 
 ## Step 3
 sender = st.text_input("Sender: ")
 receiver = st.text_input("Receiver: ")
