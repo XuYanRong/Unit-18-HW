@@ -11,7 +11,7 @@ class Record:
     
 ## Step 2
 record: Record 
- 
+(change data renamed as Record) 
 ## Step 3
 sender = st.text_input("Sender: ")
 receiver = st.text_input("Receiver: ")
